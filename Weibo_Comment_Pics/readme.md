@@ -11,7 +11,7 @@
 #### 需要安装的包：
 - requests
 
-**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://mmbiz.qpic.cn/mmbiz_png/deBiaBx31sgsbOMcxxmJkmQJmtq7ticTPR3trcMG4OFUy9atYBiaFCt4icRa5Tich9w1GNxYLaCuPFlpl6b88DpH2PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)，阅读对应文章《[开年表情包局部富有指南，盘它！](https://mp.weixin.qq.com/s/iTtVXMVdoTBxWHzEzbQH1Q)》**
+**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)，阅读对应文章《[开年表情包局部富有指南，盘它！](https://mp.weixin.qq.com/s/iTtVXMVdoTBxWHzEzbQH1Q)》**
 
 
 ## Weibo memes and stickers crawler
@@ -28,4 +28,4 @@ The main files are listed below:
 #### Packages need to be installed
 - requests
 
-**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://mmbiz.qpic.cn/mmbiz_png/deBiaBx31sgsbOMcxxmJkmQJmtq7ticTPR3trcMG4OFUy9atYBiaFCt4icRa5Tich9w1GNxYLaCuPFlpl6b88DpH2PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)**
+**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)**
