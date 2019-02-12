@@ -16,7 +16,7 @@
 - pandas、numpy、scipy
 - matplotlib、seaborn、pyecharts
 
-**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://github.com/Alfred1984/interesting-python/blob/master/TheWanderingEarth/readme.md)，阅读对应文章《[看完这片分析，楼下的Tony和Kevin都改名了！](https://mp.weixin.qq.com/s/7dGJbueO-_cLuw9d8mPUyg)》**
+**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)，阅读对应文章《[看完这片分析，楼下的Tony和Kevin都改名了！](https://mp.weixin.qq.com/s/7dGJbueO-_cLuw9d8mPUyg)》**
 
 
 ## English name picking analysis (Tony and Kevin downstairs changed their English names after reading this analysis!)
@@ -38,4 +38,4 @@ The main files are listed below:
 - pandas、numpy、scipy
 - matplotlib、seaborn、pyecharts
 
-**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://github.com/Alfred1984/interesting-python/blob/master/TheWanderingEarth/readme.md)**
+**Notice: you can find the detailed document by following Alfred's wechat official account: [Alfred_Lab](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)**
