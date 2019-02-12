@@ -4,7 +4,7 @@
 本Repository主要用于存放项目代码，对应的项目文章可以关注公众号。  
 
 作者：Alfred  
-微信公众号：[Alfred数据室](https://mmbiz.qpic.cn/mmbiz_png/deBiaBx31sgsbOMcxxmJkmQJmtq7ticTPR3trcMG4OFUy9atYBiaFCt4icRa5Tich9w1GNxYLaCuPFlpl6b88DpH2PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)（原名为Alfred在纽西兰）
+微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)（原名为Alfred在纽西兰）
 
 
 ### 项目介绍
