@@ -11,7 +11,7 @@
 #### 需要安装的包：
 - requests
 
-**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://mmbiz.qpic.cn/mmbiz_png/deBiaBx31sgsbOMcxxmJkmQJmtq7ticTPR3trcMG4OFUy9atYBiaFCt4icRa5Tich9w1GNxYLaCuPFlpl6b88DpH2PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)，阅读对应文章《开年表情包局部富有指南，盘它！》**
+**注：具体分析说明可以关注微信公众号：[Alfred数据室](https://mmbiz.qpic.cn/mmbiz_png/deBiaBx31sgsbOMcxxmJkmQJmtq7ticTPR3trcMG4OFUy9atYBiaFCt4icRa5Tich9w1GNxYLaCuPFlpl6b88DpH2PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)，阅读对应文章《[开年表情包局部富有指南，盘它！](https://mp.weixin.qq.com/s/iTtVXMVdoTBxWHzEzbQH1Q)》**
 
 
 ## Weibo memes and stickers crawler
