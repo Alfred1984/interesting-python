@@ -6,6 +6,7 @@
 - comment_crawler.py：爬取电影《流浪地球》的猫眼评论的代码（带说明和注释，需要安装MongoDB数据库）
 - TheWanderingEarth.ipynb：Jupyter notebook代码，分析该电影的评论和评分
 - data.csv: 从MongoDB提取出来的10万条数据
+- stopwords.txt: 停用词表
 
 #### 运行环境：
 - python3.6
@@ -29,7 +30,8 @@ The main files are listed below:
 - comment_crawler.py：codes for crawling MaoYan comments of The Wandering Earth(with annotation, MOngoDB
 needs to be installed.)
 - TheWanderingEarth.ipynb：Jupyter notebook for analysing the comments and scores
-- data.csv: 100000+ comment data extracted from MongoDB.
+- data.csv: 100000+ comment data extracted from MongoDB
+- stopwords.txt: list of stop words
 
 #### Python environment
 - Python3.6
