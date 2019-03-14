@@ -38,7 +38,7 @@ class CaixukunPipeline(object):
     def process_item(self, item, spider):
         try:
             self.db['repost'].update({'mid': item['mid']}, {'$set': item}, upsert=True)
-            # 通过comment_id判断，有就更新，没有就插入
+            # 通过mid判断，有就更新，没有就插入
 
         except DuplicateKeyError:
             spider.logger.debug('duplicate key error collection')  # 唯一键冲突报错
