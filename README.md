@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Python-3.6-blue.svg">
         </a>
     <a href="https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg">
-        <img src="https://img.shields.io/static/v1.svg?label=微信公众号&message=Alfred数据室&color=ff69b4">
+        <img src="https://img.shields.io/static/v1.svg?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=Alfred%E6%95%B0%E6%8D%AE%E5%AE%A4&color=ff69b4">
         </a>
     <a href="https://github.com/Alfred1984/interesting-python">
     <img src="https://img.shields.io/github/stars/Alfred1984/interesting-python.svg?style=social">
