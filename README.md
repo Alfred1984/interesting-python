@@ -110,4 +110,11 @@
 - 对应微信公众号文章：《[帮了个小忙|破解“实习僧”网站字体加密](https://mp.weixin.qq.com/s/e56flQKah104IVwd0VfoIQ)》、《[“小忙”连载篇|实习僧网站数据分析](https://mp.weixin.qq.com/s/FS70XOhmF2w4J3EghCzZfw)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者
 - 难度：★★★☆☆
+</br>
 
+### 支持作者
+熬夜敲代码写稿件，咖啡才是第一生产力。
+如何支持作者？
+Maybe you could buy me a cup of coffee.
+
+<img src="https://github.com/Alfred1984/interesting-python/blob/master/reward.jpg" width="200" />
