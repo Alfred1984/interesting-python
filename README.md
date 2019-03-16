@@ -1,3 +1,22 @@
+# <p align="center">interesting-python: 有趣的Python爬虫和数据分析小项目</p>
+
+<p align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/状态-持续更新中-brightgreen.svg">
+        </a>
+    <a href="https://github.com/python/cpython">
+        <img src="https://img.shields.io/badge/Python-3.6-blue.svg">
+        </a>
+    <a href="https://github.com/Alfred1984/interesting-python">
+    <img src="https://img.shields.io/github/stars/Alfred1984/interesting-python.svg?style=social">
+        </a>
+    <a href="https://github.com/Alfred1984/interesting-python">
+    <img src="https://img.shields.io/github/forks/Alfred1984/interesting-python.svg?style=social">
+        </a>
+</p>
+
+
+
 ## interesting-python
 
 可以用Python实现的有趣的小项目，内容包括Python爬虫、Python数据分析、机器学习、深度学习等，持续更新中。  
