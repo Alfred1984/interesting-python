@@ -114,9 +114,7 @@
 
 ### 支持作者
 熬夜敲代码写稿件，咖啡才是第一生产力。
-
 如何支持作者？
+Maybe you could buy me a cup of coffee. Salute!
 
-Maybe you could buy me a cup of coffee.
-
-<img src="https://github.com/Alfred1984/interesting-python/blob/master/reward.jpg" width="500" />
+<img src="https://github.com/Alfred1984/interesting-python/blob/master/reward.jpg" width="600" />
