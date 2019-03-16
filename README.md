@@ -117,4 +117,4 @@
 如何支持作者？
 Maybe you could buy me a cup of coffee.
 
-<img src="https://github.com/Alfred1984/interesting-python/blob/master/reward.jpg" width="200" />
+<img src="https://github.com/Alfred1984/interesting-python/blob/master/reward.jpg" width="500" />
