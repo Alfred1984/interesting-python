@@ -7,6 +7,9 @@
     <a href="https://github.com/python/cpython">
         <img src="https://img.shields.io/badge/Python-3.6-blue.svg">
         </a>
+    <a href="https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg">
+        <img src="https://img.shields.io/static/v1.svg?label=微信公众号&message=Alfred数据室&color=ff69b4">
+        </a>
     <a href="https://github.com/Alfred1984/interesting-python">
     <img src="https://img.shields.io/github/stars/Alfred1984/interesting-python.svg?style=social">
         </a>
@@ -17,13 +20,14 @@
 
 
 
-## interesting-python
+## 简介
 
 可以用Python实现的有趣的小项目，内容包括Python爬虫、Python数据分析、机器学习、深度学习等，持续更新中。  
 本Repository主要用于存放项目代码，对应的项目文章可以关注公众号。  
 </br>
 作者：Alfred  
 微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)（原名为Alfred在纽西兰）
+
 </br>
 
 ### 项目介绍
