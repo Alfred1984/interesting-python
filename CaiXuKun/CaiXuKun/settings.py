@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for CaiXuKUN project
+# Scrapy settings for CaiXuKun project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -11,14 +11,14 @@
 import os
 
 
-BOT_NAME = 'CaiXuKUN'
+BOT_NAME = 'CaiXuKun'
 
-SPIDER_MODULES = ['CaiXuKUN.spiders']
-NEWSPIDER_MODULE = 'CaiXuKUN.spiders'
+SPIDER_MODULES = ['CaiXuKun.spiders']
+NEWSPIDER_MODULE = 'CaiXuKun.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'CaiXuKUN (+http://www.yourdomain.com)'
+#USER_AGENT = 'CaiXuKun (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -53,14 +53,14 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'CaiXuKUN.middlewares.CaixukunSpiderMiddleware': 543,
+#    'CaiXuKun.middlewares.CaixukunSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 
 DOWNLOADER_MIDDLEWARES = {
-   'CaiXuKUN.middlewares.TooManyRequestsRetryMiddleware': 543,
+   'CaiXuKun.middlewares.TooManyRequestsRetryMiddleware': 543,
 }
 RETRY_HTTP_CODES = [418]
 RETRY_TIMES = 2
@@ -74,7 +74,7 @@ RETRY_TIMES = 2
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'CaiXuKUN.pipelines.CaixukunPipeline': 300,
+   'CaiXuKun.pipelines.CaixukunPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
