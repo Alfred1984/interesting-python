@@ -132,7 +132,8 @@
 
 ### 支持作者
 熬夜敲代码写稿件，咖啡才是第一生产力。
-<img src="https://github.com/Alfred1984/interesting-python/blob/master/coffee.png" width="550" />
+
+<img src="https://github.com/Alfred1984/interesting-python/blob/master/coffee.png" width="300" />
 
 喜欢作者的分享，如何支持作者？
 
