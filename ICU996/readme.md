@@ -29,8 +29,8 @@
 
 #### 注意的问题：
 - 由于该项目做得比较快，爬虫都是在测试中就把数据爬回来了，所以项目代码比较不规整；
-- 数据是通过Github API爬取的（不得不说，这个API是我用过的最好用的API），需要先申请Personal access tokens（不然每小时单个IP只能请求60次）
-- Personal access tokens申请方法：打开Github——Settings——Developer settings——Personal access tokens——Generate new token，自行申请就好，记得把read:user这一项勾上，因为后面我们要请求user的个人公开信息
+- 数据是通过Github API爬取的（不得不说，这个API是我用过的最好用的API），需要先申请Personal access tokens（不然每小时单个IP只能请求60次，有token的话，每20分钟可以请求5000次）
+- Personal access tokens申请方法：打开Github——`Settings`——`Developer settings`——`Personal access tokens`——`Generate new token`，自行申请就好，记得把read:user这一项勾上，因为后面我们要请求user的个人公开信息
 - 我的爬取顺序是先爬Issues数据，再爬stargazers简要数据，再从中提取了url，进而爬取每个stargazers的个人公开简介数据，当然你也可以改写一下代码，每爬回一页stargazers简要数据，从中提取url，直接请求每个stargazers的个人公开简介数据
 
 #### Github API
@@ -53,7 +53,7 @@ def start_requests(self):
 
 ##### [Stargazers](https://github.com/996icu/996.ICU/stargazers)：
 
-https://api.github.com/repos/996icu/996.ICU/stargazers?page=()&access_token=()', 其中page（页面）参数和access_token参数（你申请回来的token）需自行传递
+https://api.github.com/repos/996icu/996.ICU/stargazers?page=()&access_token=(), 其中page（页面）参数和access_token参数（你申请回来的token）需自行传递
 ```
 # start_requests可以这样写
 def start_requests(self):
