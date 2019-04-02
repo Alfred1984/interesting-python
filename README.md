@@ -114,6 +114,8 @@
 - 对应微信公众号文章：《[50行代码教你打造一个公众号文章采集器](https://mp.weixin.qq.com/s/Yt4Gde2TuCWvK8pPCiZZRQ)》
 - 适合人群：Python学习者、新媒体运营人群？
 - 难度：★★☆☆☆
+- 注：该项目由于依赖包[WechatSogou](https://github.com/Chyroc/WechatSogou)疏于维护，目前暂时不能使用了。（2019-04-02 updated）
+
 </br>
 
 12. **mongoTV**：
