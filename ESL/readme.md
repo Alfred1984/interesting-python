@@ -7,6 +7,10 @@
 - wechat_group_member.py：爬取微信群成员信息代码
 - 数据分析.ipynb：Jupyter notebook代码，对外教教师的招聘状况进行分析
 
+#### 数据
+- **JobLEADChina数据**：jobleadchina.csv
+- **万行教师人才网招聘数据**：幼儿园.csv，中小学.csv，职业院校.csv，外语培训.csv
+- **微信群成员数据**：data_gm.csv
 
 #### 运行环境：
 - python3.6
