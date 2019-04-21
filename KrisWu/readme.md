@@ -37,7 +37,7 @@ The main files are listed below:
 - stopwords.txt: stop words list
 
 #### How to crawl the data
-The sanme way I performed to crawl Caixukun weibo repost data, you can refer to [CaiXuKun](https://github.com/Alfred1984/interesting-python/tree/master/CaiXuKun) for more details.
+The same way I performed to crawl Caixukun weibo repost data, you can refer to [CaiXuKun](https://github.com/Alfred1984/interesting-python/tree/master/CaiXuKun) for more details.
 
 #### Data
 102118 repost data from one of KrisWu's Weibo
