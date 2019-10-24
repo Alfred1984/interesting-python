@@ -32,6 +32,26 @@
 
 </br>
 
+
+## 课程
+
+应诸位读者朋友的要求，即日起Alfred数据室将陆续推出**《实战玩转数据科学》**系列课程，课程分为数据获取、数据分析、大数据分析三个部分，从如何获取数据、怎么分析数据、通过什么方法分析海量数据三方面带大家玩转数据分析。
+ 
+ 数据获取部分子课程**《实战玩转Python爬虫》**现已正式上线，以目标为导向，从项目出发，十大案例掌握数据获取，让Python爬虫学习思路更清晰，路径更明确。详情请点击：[实战玩转Python爬虫](https://study.163.com/course/introduction/1209511875.htm?share=2&shareId=480000001946441)
+ 
+ 可以扫描以下二维码进行课程咨询哦：
+ <img src="https://github.com/Alfred1984/interesting-python/blob/master/Mia%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="300" />
+
+ 
+</br>
+
+作者：Alfred  
+微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)（原名为Alfred在纽西兰）  
+合作请加微信号：July-december
+
+</br>
+
+
 ### 项目介绍
 1. **LiveStreaming**:
 - 内容： 爬取了西瓜直播（今日头条旗下APP）各类型游戏的主播直播数据107.5万条，并分析直播平台和游戏主播行业是否真如我们想象般的暴利
