@@ -43,13 +43,6 @@
  
  <img src="https://github.com/Alfred1984/interesting-python/blob/master/Mia%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="150" />
 
- 
-</br>
-
-作者：Alfred  
-微信公众号：[Alfred数据室](https://wx1.sinaimg.cn/mw690/007yVcwsgy1g03lo67ikoj30u00f0ta0.jpg)（原名为Alfred在纽西兰）  
-合作请加微信号：July-december
-
 </br>
 
 
