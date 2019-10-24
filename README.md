@@ -40,7 +40,8 @@
  数据获取部分子课程**《实战玩转Python爬虫》**现已正式上线，以目标为导向，从项目出发，十大案例掌握数据获取，让Python爬虫学习思路更清晰，路径更明确。详情请点击：[实战玩转Python爬虫](https://study.163.com/course/introduction/1209511875.htm?share=2&shareId=480000001946441)
  
  可以扫描以下二维码进行课程咨询哦：
- <img src="https://github.com/Alfred1984/interesting-python/blob/master/Mia%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="300" />
+ 
+ <img src="https://github.com/Alfred1984/interesting-python/blob/master/Mia%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="200" />
 
  
 </br>
