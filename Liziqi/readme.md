@@ -1,1 +1,1 @@
-This project will be update asap.
+This project will be updated asap.
